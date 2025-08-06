@@ -1,0 +1,18 @@
+.InfoBox {
+    width: 400px;
+    margin: 0 auto;
+}
+
+.for_city_icon {
+    display: flex;
+    justify-content: center;
+}
+
+.for_icon {
+    margin-top: 0.28rem;
+    margin-left: 0.5rem;
+}
+
+.ThunderstormRoundedIcon {
+    background-color: red;
+}
